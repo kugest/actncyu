@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'actncyu'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B5F6B4977B9F4AEFB0C7C8324F13A275 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87A10235F1A34C48A03CC5AB62C1FA06 }}
           package: .
